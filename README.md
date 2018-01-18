@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/xeger/gomuti.png)](https://travis-ci.org/xeger/gomuti) [![Go Report](https://goreportcard.com/badge/github.com/xeger/gomuti)](https://goreportcard.com/report/github.com/xeger/gomuti) [![Docs](https://img.shields.io/badge/docs-godoc-blue.svg)](https://godoc.org/github.com/xeger/gomuti)
 ![Gomuti](logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgomuti.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgomuti?ref=badge_shield)
 
 Gomuti is DSL for [mocking](https://en.wikipedia.org/wiki/Mock_object) Golang interfaces, inspired by  [Gomega](https://github.com/onsi/gomega) and drawing upon Gomega matchers to dispatch mock method calls.
 With a [Ginkgo](https://github.com/onsi/ginkgo)-like DSL for programming mock behavior, Gomuti makes it
@@ -158,3 +159,7 @@ Clearly explain your problem, steps to reproduce, and your ideal solution (if kn
 ## How to contribute
 
 Fork the `xeger/gomuti` [repository](https://github.com/xeger/gomuti) on GitHub; make your changes; open a pull request.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgomuti.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgomuti?ref=badge_large)
